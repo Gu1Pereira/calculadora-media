@@ -22,8 +22,10 @@ nota04 = 8
 
 //console.log((nota01 + nota02 + nota03 + nota04)/4)
 
+
+
 media = (nota01 + nota02 + nota03 + nota04) / 4
 console.log(media)
 
-
-
+nome = prompt("informe seu nome")
+alert("óla " + nome + " sua média é " + media)
